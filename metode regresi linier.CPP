@@ -13,7 +13,7 @@ main(){
    int sigmax=0,sigmay=0,sigmax2=0,sigmaxy=0;
    float prediksi[Nmax+1];
    float nyata[Nmax+1];
-   float m,c,eror,sigmapre=0,sigmanya=0;
+   float m=0,c=0,eror=0,sigmapre=0,sigmanya=0;
    Home:
    clrscr();
    printf("Studi Kasus Perhitungan Lama Waktu Petugas Pengantar Barang Lazada\n");
